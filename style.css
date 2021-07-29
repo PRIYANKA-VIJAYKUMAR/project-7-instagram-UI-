@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 20px;
+}
+.phone{
+    padding-top: 70px;
+    height: 650px;
+    float: right;
+    margin: 10px;
+}
+.body{
+    background-color: aliceblue;
+}
+.right-column{
+    background: #efefef;
+    border: 1px solid #999;
+    width: 250px;
+    margin: 10px;
+    padding: 50px;
+}
+.instagram-logo{
+    margin: 15px auto;
+    height: 300px;
+}
+.info{
+    font-weight: 600;
+}
+.fb-logo{
+    width:20px !important ;
+}
+.or::before{
+   content: '';
+   display: block;
+   position: relative;
+   height: 2px;
+   width: 110px;
+   bottom: 10px;
+   left: 160px;
+  }
+  .btn
+  {
+      padding: 10px !important;
+  }
+  .text-center{
+      margin-left: 200px;
+  }
+  .text-center a:hover{
+      text-decoration: none;
+  }
